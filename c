@@ -47,7 +47,7 @@ media= somma / 10 ;
 
 printf("\n");
 
-printf("La media aritmetica e'",a,b,c,d,e,f,g,h,i,l.media);
+printf("La media aritmetica e'",a,b,c,d,e,f,g,h,i,l,media);
 
 return 0;
 
